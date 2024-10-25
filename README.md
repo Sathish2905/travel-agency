@@ -18,7 +18,8 @@ This is a fully functional, modern travel agency website designed to provide use
 ---
 
 ## Demo
-[Live Demo Link]([https://travel-agency-sathish-kumar-t.vercel.app/])
+
+https://travel-agency-sathish-kumar-t.vercel.app/
 
 ---
 
